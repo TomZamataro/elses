@@ -1,0 +1,3 @@
+	Para a visualisação da solução deve ser usado o software "Visual Studio" na execução do arquivo "Teste Tecnico Tapps.sln" contido na pasta "Teste Tecnico Tapps", ápos isso deve-se depurar o código normalmente ainda usando o software 
+"Visual Studio" (Ctrl + F5).
+	Para analise do código, localize a aba "Gerenciador de Soluções" na direita superior da interface do software, e clique uma vez com o botão esquerdo do mouse em um dos arquivos do tipo .cs para o vizualizar, ou clique duas vezes com o botão esquerdo do mouse para o deixar aberto em uma nova aba, localizada acima do espaço onde o código agora se encontra.

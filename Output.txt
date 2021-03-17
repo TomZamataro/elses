@@ -1,0 +1,12 @@
+
+	A qunatidade de partidas terminadas por Timeout foi: 1
+
+	A média de Rodadas que uma partida demora é: 9
+
+	O Jogador do tipo Exigente foi oque mais ganhou
+
+	A porcentagem de Virórias para cada tipo de jogador foi:
+		- Impulsivo: 24%
+		- Aleatório: 22%
+		- Cauteloso: 22%
+		- Exigente: 31%

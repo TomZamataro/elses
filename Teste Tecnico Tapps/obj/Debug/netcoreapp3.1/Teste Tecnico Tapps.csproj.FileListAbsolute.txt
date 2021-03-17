@@ -1,0 +1,13 @@
+C:\Users\valeria\Desktop\Coisas do Tom\Codes\Teste Tecnico Tapps\bin\Debug\netcoreapp3.1\Teste Tecnico Tapps.exe
+C:\Users\valeria\Desktop\Coisas do Tom\Codes\Teste Tecnico Tapps\bin\Debug\netcoreapp3.1\Teste Tecnico Tapps.deps.json
+C:\Users\valeria\Desktop\Coisas do Tom\Codes\Teste Tecnico Tapps\bin\Debug\netcoreapp3.1\Teste Tecnico Tapps.runtimeconfig.json
+C:\Users\valeria\Desktop\Coisas do Tom\Codes\Teste Tecnico Tapps\bin\Debug\netcoreapp3.1\Teste Tecnico Tapps.runtimeconfig.dev.json
+C:\Users\valeria\Desktop\Coisas do Tom\Codes\Teste Tecnico Tapps\bin\Debug\netcoreapp3.1\Teste Tecnico Tapps.dll
+C:\Users\valeria\Desktop\Coisas do Tom\Codes\Teste Tecnico Tapps\bin\Debug\netcoreapp3.1\Teste Tecnico Tapps.pdb
+C:\Users\valeria\Desktop\Coisas do Tom\Codes\Teste Tecnico Tapps\obj\Debug\netcoreapp3.1\Teste Tecnico Tapps.csprojAssemblyReference.cache
+C:\Users\valeria\Desktop\Coisas do Tom\Codes\Teste Tecnico Tapps\obj\Debug\netcoreapp3.1\Teste Tecnico Tapps.AssemblyInfoInputs.cache
+C:\Users\valeria\Desktop\Coisas do Tom\Codes\Teste Tecnico Tapps\obj\Debug\netcoreapp3.1\Teste Tecnico Tapps.AssemblyInfo.cs
+C:\Users\valeria\Desktop\Coisas do Tom\Codes\Teste Tecnico Tapps\obj\Debug\netcoreapp3.1\Teste Tecnico Tapps.csproj.CoreCompileInputs.cache
+C:\Users\valeria\Desktop\Coisas do Tom\Codes\Teste Tecnico Tapps\obj\Debug\netcoreapp3.1\Teste Tecnico Tapps.dll
+C:\Users\valeria\Desktop\Coisas do Tom\Codes\Teste Tecnico Tapps\obj\Debug\netcoreapp3.1\Teste Tecnico Tapps.pdb
+C:\Users\valeria\Desktop\Coisas do Tom\Codes\Teste Tecnico Tapps\obj\Debug\netcoreapp3.1\Teste Tecnico Tapps.genruntimeconfig.cache
